@@ -63,9 +63,8 @@ console.log(developer.introduce());
 
   <img src="https://komarev.com/ghpvc/?username=Varadpensalwar&color=6C63FF&style=plastic&label=Profile+Views" alt="Profile Views"/>
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://ghchart.xqsit94.in/white:default/VaradPensalwar" alt="Activity Graph"/>
-  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"></a>
+  <img src="https://ghchart.xqsit94.in/white:default/VaradPensalwar" alt="Activity Graph"/>
 
 </div>
 
