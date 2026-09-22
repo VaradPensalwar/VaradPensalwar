@@ -63,9 +63,6 @@ console.log(developer.introduce());
 
   <img src="https://komarev.com/ghpvc/?username=Varadpensalwar&color=6C63FF&style=plastic&label=Profile+Views" alt="Profile Views"/>
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"></a>
-  <img src="https://ghchart.xqsit94.in/VaradPensalwar" alt="Activity Graph"/>
-
 </div>
 
 <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Varadpensalwar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FFD700&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&border_radius=10" alt="GitHub Streak" />
