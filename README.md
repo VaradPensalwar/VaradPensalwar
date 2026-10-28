@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Varad Pensalwar
 
-<h3 align="center">MIS Executive | Advanced Excel | Power Query | Data Analytics</h3>
+<h3 align="center">MIS Executive | Advanced Excel | Power Query</h3>
 
 <p align="center">
   Transforming raw data into meaningful reports, interactive dashboards, and actionable business insights.
