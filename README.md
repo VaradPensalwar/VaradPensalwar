@@ -1,69 +1,88 @@
 # 👋 Hi, I'm Varad Pensalwar
 
-### MIS Executive | Advanced Excel | Power Query | Data Analytics
+<h3 align="center">MIS Executive | Advanced Excel | Power Query | Data Analytics</h3>
 
-📊 Turning raw data into meaningful reports, dashboards, and actionable business insights.
+<p align="center">
+  Transforming raw data into meaningful reports, interactive dashboards, and actionable business insights.
+</p>
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-e64313?style=plastic&logo=gmail&logoColor=white)](mailto:varadpensalwar@duck.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0abde3?style=plastic&logo=google-chrome&logoColor=white)](https://varadpensalwar.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varadpensalwar/)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=plastic&logo=x&logoColor=white)](https://x.com/VaradPensalwar)
-[![Linktree](https://img.shields.io/badge/Linktree-Varad-43E660?style=plastic&logo=linktree&logoColor=white)](https://linktr.ee/VaradPensalwar)
+<p align="center">
+  <a href="mailto:varadpensalwar@duck.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-e64313?style=plastic&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/varadpensalwar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/VaradPensalwar">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=plastic&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://linktr.ee/VaradPensalwar">
+    <img src="https://img.shields.io/badge/Linktree-Connect-43E660?style=plastic&logo=linktree&logoColor=white" alt="Linktree"/>
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm an **MIS Executive with 1.4 years of experience** in data management, reporting, analysis, and dashboard development. I specialize in Microsoft Excel and Power Query to transform raw data into accurate, structured, and meaningful business information.
+I am an **MIS Executive with 1.4 years of professional experience** in data management, reporting, and dashboard development. I specialize in using Microsoft Excel and Power Query to clean, organize, analyze, and transform raw data into accurate and insightful business reports.
 
-- 📈 Creating daily, weekly, and monthly MIS reports.
-- 📊 Building Excel dashboards and KPI performance reports.
-- 🧹 Cleaning, validating, and organizing large datasets.
+- 📊 Creating daily, weekly, and monthly MIS reports.
+- 📈 Developing Excel dashboards and KPI performance reports.
+- 🧹 Cleaning, validating, and maintaining data accuracy.
 - ⚡ Automating repetitive reporting tasks using Power Query.
 - 🔍 Analyzing sales, employee, and operational data.
-- 🎯 Improving reporting accuracy and business decision-making.
+- 🎯 Continuously improving my data analysis and reporting skills.
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Tools
 
-- **Advanced Excel:** Pivot Tables, VLOOKUP, XLOOKUP, IF Functions, Conditional Formatting, Data Validation
-- **Power Query:** Data Import, Data Cleaning, Transformation, Duplicate Removal, Data Preparation
-- **MIS Reporting:** Daily Reports, Weekly Reports, Monthly Reports
-- **Dashboard Development:** Excel Dashboards, KPI Tracking, Data Visualization
-- **Data Management:** Data Collection, Data Validation, Data Reconciliation, Data Accuracy
-- **Data Analysis:** Sales Analysis, Operational Reporting, Performance Tracking
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Power Query"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-0078D4?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Data Analysis"/>
+  <img src="https://img.shields.io/badge/MIS_Reporting-0A66C2?style=for-the-badge" alt="MIS Reporting"/>
+</p>
 
-## 💼 Work Experience
+| Category | Skills |
+|---|---|
+| Advanced Excel | Pivot Tables, VLOOKUP, XLOOKUP, IF Functions |
+| Data Management | Data Cleaning, Data Validation, Data Reconciliation |
+| Reporting | Daily, Weekly, Monthly MIS Reports |
+| Dashboarding | Interactive Excel Dashboards, KPI Tracking, Data Visualization |
+| Automation | Power Query, Data Transformation, Duplicate Removal |
+| Data Analysis | Sales Analysis, Operational Reporting, Performance Tracking |
 
-**MIS Executive | BitsSparrow Technology Pvt. Ltd.**
+## 💼 Professional Experience
 
-📅 June 2025 – Present
+**MIS Executive — BitsSparrow Technology Pvt. Ltd.**
 
-- Prepared daily, weekly, and monthly MIS reports for management.
-- Managed sales, employee, and operational datasets.
-- Used Excel formulas, Pivot Tables, and lookup functions for data analysis.
-- Automated repetitive data preparation tasks using Power Query.
-- Developed interactive Excel dashboards to track KPIs and business performance.
-- Collaborated with teams to collect, consolidate, and validate data.
-- Performed data cleaning and reconciliation to maintain report accuracy.
+*June 2025 – Present*
 
-## 💻 My Data Workflow
+- Prepared daily, weekly, and monthly MIS reports to support management decision-making.
+- Managed and updated sales, employee, and operational datasets.
+- Used Pivot Tables, VLOOKUP, XLOOKUP, IF functions, and Conditional Formatting for reporting and analysis.
+- Automated repetitive data preparation tasks using Power Query to reduce manual effort.
+- Built Excel dashboards and KPI reports to monitor sales performance and operational trends.
+- Collaborated with teams to collect, consolidate, validate, and reconcile business data.
+
+## 💻 My Approach to Data
 
 ```javascript
-const varadPensalwar = {
+const varad = {
     role: "MIS Executive",
     tools: ["Microsoft Excel", "Power Query"],
     expertise: [
         "MIS Reporting",
         "Data Cleaning",
         "Excel Dashboards",
-        "KPI Tracking",
+        "KPI Analysis",
         "Reporting Automation"
     ],
-    focus: "Transforming data into actionable insights",
-    motto: "Accuracy | Efficiency | Continuous Learning"
+    goal: "Turn raw data into actionable insights",
+    mindset: "Accuracy, efficiency, and continuous learning"
 };
 
-console.log("Turning raw data into meaningful insights!");
+console.log("Making data meaningful, one report at a time!");
 ```
 
 ## 📊 GitHub Stats
@@ -81,11 +100,13 @@ console.log("Turning raw data into meaningful insights!");
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with professionals in MIS reporting, Excel automation, data analytics, and business intelligence.
+I'm interested in connecting with professionals in MIS reporting, Excel automation, data analytics, and business intelligence.
 
-- 📧 Email: [Contact Me](mailto:varadpensalwar@duck.com)
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/varadpensalwar/)
-- 🌐 Portfolio: [Visit Website](https://varadpensalwar.vercel.app/)
+<p align="center">
+  <strong>📧 Email:</strong> <a href="mailto:varadpensalwar@duck.com">Contact Me</a>
+  <br/>
+  <strong>💼 LinkedIn:</strong> <a href="https://www.linkedin.com/in/varadpensalwar/">Connect with me</a>
+</p>
 
 <p align="center">
   <i>"Turning data into insights and insights into better decisions."</i>
