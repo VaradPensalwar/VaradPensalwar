@@ -64,26 +64,6 @@ I am an **MIS Executive with 1.4 years of professional experience** in data mana
 - Built Excel dashboards and KPI reports to monitor sales performance and operational trends.
 - Collaborated with teams to collect, consolidate, validate, and reconcile business data.
 
-## 💻 My Approach to Data
-
-```javascript
-const varad = {
-    role: "MIS Executive",
-    tools: ["Microsoft Excel", "Power Query"],
-    expertise: [
-        "MIS Reporting",
-        "Data Cleaning",
-        "Excel Dashboards",
-        "KPI Analysis",
-        "Reporting Automation"
-    ],
-    goal: "Turn raw data into actionable insights",
-    mindset: "Accuracy, efficiency, and continuous learning"
-};
-
-console.log("Making data meaningful, one report at a time!");
-```
-
 ## 📊 GitHub Stats
 
 <p align="center">
