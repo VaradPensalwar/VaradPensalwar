@@ -39,7 +39,6 @@ I am an **MIS Executive with 1.4 years of professional experience** in data mana
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
   <img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Power Query"/>
-  <img src="https://img.shields.io/badge/Data_Analysis-0078D4?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Data Analysis"/>
   <img src="https://img.shields.io/badge/MIS_Reporting-0A66C2?style=for-the-badge" alt="MIS Reporting"/>
 </p>
 
